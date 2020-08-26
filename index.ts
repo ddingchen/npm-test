@@ -1,1 +1,1 @@
-class DC {}
+export class DC {}
